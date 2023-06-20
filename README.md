@@ -1,5 +1,4 @@
-# Code for "NEURAL NETWORKS CAN DETECT
-MODEL-FREE STATIC ARBITRAGE STRATEGIES"
+# Code for "Neural networks can detect model-free static arbitrage strategies"
 
 ## Ariel Neufeld, Julian Sester
 
