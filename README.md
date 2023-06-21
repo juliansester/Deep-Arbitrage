@@ -25,7 +25,7 @@ whenever the nancial market admits such opportunities.
 - The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Testing_Real_Data.ipynb) covering the backtesting of the trained neural network on the test data.
 
 
-- The  [trained neural network](https://github.com/juliansester/Wasserstein-Q-learning/blob/main/model_strat_real.h5) .
+- The  [trained neural network](https://github.com/juliansester/Deep-Arbitrage/blob/main/model_strat_real.h5) .
 
 # MIT License
 
