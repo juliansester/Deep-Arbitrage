@@ -19,10 +19,10 @@ whenever the nancial market admits such opportunities.
 
 # Content
 
-- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/Download_Real_Data.ipynb) to download the real option data of SP 500 Constituents.
-- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/Real_Data.ipynb) containing Algorithm 1 (training of the neural network) applied to real data.
-- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/Testing_Historical_Data.ipynb) covering the backtesting procedure on historical data. (HISTORICAL OPTION DATA CAN UNFORTUNATELY NOT BE PROVIDED)
-- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/Testing_Real_Data.ipynb) covering the backtesting of the trained neural network on the test data.
+- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Download_Real_Data.ipynb) to download the real option data of SP 500 Constituents.
+- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Real_Data.ipynb) containing Algorithm 1 (training of the neural network) applied to real data.
+- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Testing_Historical_Data.ipynb) covering the backtesting procedure on historical data. (HISTORICAL OPTION DATA CAN UNFORTUNATELY NOT BE PROVIDED)
+- The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Testing_Real_Data.ipynb) covering the backtesting of the trained neural network on the test data.
 
 
 - The  [trained neural network](https://github.com/juliansester/Wasserstein-Q-learning/blob/main/model_strat_real.h5) .
