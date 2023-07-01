@@ -17,6 +17,8 @@ whenever the nancial market admits such opportunities.
 
 # Preprint
 
+Can be found [here](https://arxiv.org/abs/2306.16422)
+
 # Content
 
 - The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Download_Real_Data.ipynb) to download the real option data of SP 500 Constituents.
