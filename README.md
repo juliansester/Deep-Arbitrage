@@ -21,6 +21,10 @@ Can be found [here](https://arxiv.org/abs/2306.16422)
 
 # Content
 
+**IMPORTANT**
+Since the orginial *.csv-files contain data downloaded from Bloomberg, we can unfortunately NOT provide them here.
+The *.csv files are therfore just DUMMY-files showcasing the structure of the used data.
+
 - The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Download_Real_Data.ipynb) to download the real option data of SP 500 Constituents.
 - The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Real_Data.ipynb) containing Algorithm 1 (training of the neural network) applied to real data.
 - The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Testing_Historical_Data.ipynb) covering the backtesting procedure on historical data. (HISTORICAL OPTION DATA CAN UNFORTUNATELY NOT BE PROVIDED)
