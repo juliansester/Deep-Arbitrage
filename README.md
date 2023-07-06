@@ -22,6 +22,7 @@ Can be found [here](https://arxiv.org/abs/2306.16422)
 # Content
 
 **IMPORTANT**
+
 Since the orginial *.csv-files contain data downloaded from Bloomberg, we can unfortunately NOT provide them here.
 The *.csv files are therfore just DUMMY-files showcasing the structure of the used data.
 
