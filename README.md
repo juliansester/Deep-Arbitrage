@@ -21,9 +21,8 @@ Can be found [here](https://arxiv.org/abs/2306.16422)
 
 # Content
 
-**IMPORTANT**
-
-Since the orginial *.csv-files contain data downloaded from Bloomberg, we can unfortunately NOT provide them here.
+**IMPORTANT:**
+Since the original *.csv-files contain data downloaded from Bloomberg, we can unfortunately NOT provide them here.
 The *.csv files are therfore just DUMMY-files showcasing the structure of the used data.
 
 - The [Notebook](https://github.com/juliansester/Deep-Arbitrage/blob/main/Download_Real_Data.ipynb) to download the real option data of SP 500 Constituents.
